@@ -1,0 +1,3 @@
+JWT=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZmEwODE1QGV4YW1wbGUuY29tIiwiaWF0IjoxNjcxMDI5MzExLCJleHAiOjE2NzExMTU3MTF9.yFK7wB58tRqXCu9p_umCz0K9KqBCnFhpQD2ZHWX0AsW0VRzyvH8NmZYsdn1RbuC-schovnq5KEQxhDcTmvwj3A
+
+jwt_tool.py $JWT -C -d crapi.txt
